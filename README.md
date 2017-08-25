@@ -1,4 +1,5 @@
-# Android Ninja - Class No: 1 & 2 [18 August, 2017 and 19 August, 2017] #
+# Android Ninja - Class No: 1 & 2 #
+Date: 18 August, 2017 and 19 August, 2017
 
 ## Topics:
  - ConstraintLayout
